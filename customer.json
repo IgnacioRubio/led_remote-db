@@ -1,0 +1,20 @@
+[
+    {
+        "name": "Ignacio",
+        "lastName": "Rubio",
+        "phones": [
+            {
+                "work": 123123123,
+                "contact": "Ignacio"
+            },
+            {
+                "emergency": 321321321,
+                "contact": "Mom"
+            },
+            {
+                "usual": 123123123,
+                "contact": "Ignacio"
+            }
+        ]
+    }
+]

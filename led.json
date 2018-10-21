@@ -1,0 +1,45 @@
+[
+    {
+        "status": {
+            "code": "connected",
+            "when": "2018-10-21 11:11:00"
+        },
+        "light": "blinking",
+        "color": "red",
+        "home": "My Home",
+        "control": [
+            {
+                "diary": "everyday",
+                "light": "on",
+                "startHour": "09:00",
+                "endHour": null
+            }
+        ]
+    },
+
+    {
+        "status": {
+            "code": "connected",
+            "when": "2018-10-21 11:11:00"
+        },
+        "light": "on",
+        "color": "white",
+        "home": "My Home",
+        "control": [
+        ]
+    },
+
+    {
+        "status": {
+            "code": "disconnected",
+            "when": "2018-10-21 11:11:00"
+        },
+        "light": "off",
+        "color": "blue",
+        "home": "My Home",
+        "control": [
+            
+        ]
+
+    }
+]

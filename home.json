@@ -1,0 +1,18 @@
+[
+    { 
+        "name" : "My Home", 
+        "address" : "Avenua Fernández Balsera ", 
+        "telephones" : {
+            "owner" : NumberInt(111111111), 
+            "secundary" : null, 
+            "emergency" : NumberInt(111111111)
+        }, 
+        "owners" : [
+            {
+                "name" : "Ignacio", 
+                "lastName" : "Rubio"
+            }
+        ]
+    }
+]
+    
