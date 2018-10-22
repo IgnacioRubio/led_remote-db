@@ -1,18 +1,12 @@
 [
     { 
-        "name" : "My Home", 
-        "address" : "Avenua Fernández Balsera ", 
-        "telephones" : {
-            "owner" : NumberInt(111111111), 
-            "secundary" : null, 
-            "emergency" : NumberInt(111111111)
-        }, 
-        "owners" : [
-            {
-                "name" : "Ignacio", 
-                "lastName" : "Rubio"
-            }
-        ]
+        "_id" : ObjectId("5bcb82ea071f010362a546b6"), 
+        "name": "My Home",
+        "customersId" : [
+            ObjectId("5bcc4b8b071f010362a546cc")
+        ], 
+        "address" : "Avenua Fernández Balsera ",
+        "creationDate" : ISODate("2018-10-20T21:31:00.000+0000")
     }
 ]
     
