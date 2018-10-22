@@ -6,7 +6,7 @@
         },
         "light": "blinking",
         "color": "red",
-        "home": ObjectId("5bcb82ea071f010362a546b6"),
+        "homeId": ObjectId("5bcb82ea071f010362a546b6"),
         "control": [
             {
                 "diary": "everyday",
@@ -24,7 +24,7 @@
         },
         "light": "on",
         "color": "white",
-        "home": ObjectId("5bcb82ea071f010362a546b6"),
+        "homeId": ObjectId("5bcb82ea071f010362a546b6"),
         "control": [
         ]
     },
@@ -36,7 +36,7 @@
         },
         "light": "off",
         "color": "blue",
-        "home": ObjectId("5bcb82ea071f010362a546b6"),
+        "homeId": ObjectId("5bcb82ea071f010362a546b6"),
         "control": [
             
         ]
